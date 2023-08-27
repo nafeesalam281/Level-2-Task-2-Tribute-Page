@@ -1,2 +1,4 @@
-# Level-2-Task-2-Tribute-Page
+OASIS INFOBYTE PROJECT
 I developed  a Tribute Page using HTML , CSS AND JAVASCRIPT. To see the website visit http://127.0.0.1:5500/Level%202%20Task%202.html
+I developed a Calculator using HTML , CSS AND JAVASCRIPT. To see the website visit http://127.0.0.1:5500/Level%202%20Task%201.html
+I developed a Portfolio using HTML , CSS AND JAVASCRIPT. To see the website visit  http://127.0.0.1:5500/Level%201%20Task%202%20portfolio.html
